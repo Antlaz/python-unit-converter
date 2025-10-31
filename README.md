@@ -15,3 +15,7 @@ This Jupyter Notebook converts between **inches**, **feet**, and **yards** using
 
 ### 🚀 Example
 
+Enter starting unit of measurement (inches, feet, yards):  yards
+Enter unit of measurement to conver to  (inches, feet, yards):  feet
+Enter starting measurement in yards 300
+Result:  300 yards =  900 feet
